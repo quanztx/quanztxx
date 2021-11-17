@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quanztx
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning signal processing and deep learning
-- 💞️ I’m looking to collaborate on ....
+- 💞️ I’m working on TENG and AUV
 - 📫 How to reach me qzt21@mails.tsinghua.edu.cn
 
 <!---
