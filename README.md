@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quanztx
+- 👋 Hi, I’m Zhentan Quan
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning signal processing and deep learning
 - 💞️ I’m working on TENG and AUV
