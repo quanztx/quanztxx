@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning signal processing and Federated Learning
 - 💞️ I’m working on TENG and AUV
 - 📫 Contact me： qzt21@mails.tsinghua.edu.cn
+- Smart Sensing and Robotics (SSR) Group 
+- Internet of Things and Societal Cyber Physical Systems Lab (Lab-2c)
+- Shenzhen, Guangdong 518055 
 
 <!---
 quanztx/quanztx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
