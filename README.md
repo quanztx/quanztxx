@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhentan Quan
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning signal processing and Federated Learning
-- 💞️ I’m working on TENG and AUV
+- 💞️ I’m working on Energy harvesting and Robotics
 - 📫 Contact me： qzt21@mails.tsinghua.edu.cn
 - Smart Sensing and Robotics (SSR) Group 
 - Internet of Things and Societal Cyber Physical Systems Lab (Lab-2c)
